@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://SuyangLumiere.github.io“”/sitemap.xml
+Sitemap: https://suyangLumiere.github.io/sitemap.xml
