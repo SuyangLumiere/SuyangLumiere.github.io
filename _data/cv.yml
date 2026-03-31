@@ -1,9 +1,7 @@
 cv:
   name: Suyang (Rico)
-  label: Computer Science Master Student
   email: "suyang@stu.zuel.edu.cn"
   location: Changsha, China
-  summary: "Master student in Computer Science at Central South University with research interests in Multimodal Language Models, Image Editing, and AI4Science."
 
   social_networks:
     - network: GitHub
@@ -11,64 +9,52 @@ cv:
     - network: X
       username: "RICO_Lumiere"
 
-  address:
-    city: Changsha
-    region: Hunan
-    countryCode: CN
-
   sections:
     Education:
       - institution: Central South University
-        location: Changsha, China
-        area: Computer Science
-        studyType: Master Student
+        degree: Master Student in Computer Science
         start_date: 2025-09
-        end_date: "2028-06 (exp.)"
+        end_date: 2028-06
         highlights:
           - "Advisor: Prof. Alex Jinpengwang"
-
+          - "Research interests: Multimodal Language Models, Image Editing, and AI4Science."
       - institution: ZhongNan University of Economics and Law
-        location: Wuhan, China
-        area: Big Data Management and Application & Financial Engineering (Dual Degree)
-        studyType: B.S.
+        degree: B.S. in Big Data Management and Application & Financial Engineering
         start_date: 2021-09
         end_date: 2025-06
-        score: "3.88/4.0"
         highlights:
+          - "GPA: 3.88/4.0"
           - "Outstanding Student Scholarship (2025)"
 
     Publications:
       - title: "Domain adaptive and fine-grained anomaly detection for single-cell sequencing data and beyond"
-        authors: "Kaichen Xu, Yueyang Ding, Suyang Hou"
-        publisher: IJCAI 2024
-        releaseDate: 2024
+        authors:
+          - Kaichen Xu
+          - Yueyang Ding
+          - Suyang Hou
+        date: 2024-01
+        journal: IJCAI 2024
 
     Preprints:
       - title: "Glance: Accelerating Diffusion Models with 1 Sample"
-        authors: "Suyang Hou et al."
-        publisher: "arXiv preprint arXiv:2512.02899v2 (Under Peer Review ECCV 2026)"
-        releaseDate: 2025
+        authors:
+          - Suyang Hou
+          - et al.
+        date: 2025-01
+        journal: "arXiv preprint (Under Peer Review ECCV 2026)"
       - title: "Pixel-Level Instruction Alignment for All-in-Image Editing"
-        publisher: "Under Peer Review ECCV 2026"
+        authors:
+          - Suyang Hou
+        date: 2025-01
+        journal: "Under Peer Review ECCV 2026"
       - title: "Internalize External Competence for Visual Instruction Editing"
-        publisher: "Under Peer Review ECCV 2026"
+        authors:
+          - Suyang Hou
+        date: 2025-01
+        journal: "Under Peer Review ECCV 2026"
 
     Skills:
       - name: Programming Languages
-        level: Master
-        keywords: "Python, R, C++, SQL, Matlab"
+        details: "Python, R, C++, SQL, Matlab"
       - name: Tools & Frameworks
-        level: Master
-        keywords: "Git, LaTeX, Linux, PyTorch"
-
-    Languages:
-      - name: English
-        summary: "CET6"
-
-    Interests:
-      - name: Multimodal Language Models
-        keywords: "Multilingual, Mechanism, Representation Learning"
-      - name: Image Editing
-        keywords: "FlowMatching, MasaControl, distillation, DiT"
-      - name: AI4Science
-        keywords: "Bioinformatics"
+        details: "Git, LaTeX, Linux, PyTorch"
