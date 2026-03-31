@@ -5,21 +5,24 @@ cv:
 
   social_networks:
     - network: GitHub
-      username: "SuyangLumiere"
+      username: SuyangLumiere
     - network: X
-      username: "RICO_Lumiere"
+      username: RICO_Lumiere
 
   sections:
     Education:
       - institution: Central South University
-        degree: Master Student in Computer Science
+        area: Computer Science
+        degree: Master Student
         start_date: 2025-09
         end_date: 2028-06
         highlights:
           - "Advisor: Prof. Alex Jinpengwang"
           - "Research interests: Multimodal Language Models, Image Editing, and AI4Science."
+
       - institution: ZhongNan University of Economics and Law
-        degree: B.S. in Big Data Management and Application & Financial Engineering
+        area: Big Data Management & Financial Engineering
+        degree: B.S.
         start_date: 2021-09
         end_date: 2025-06
         highlights:
@@ -54,7 +57,7 @@ cv:
         journal: "Under Peer Review ECCV 2026"
 
     Skills:
-      - name: Programming Languages
+      - label: Programming Languages
         details: "Python, R, C++, SQL, Matlab"
-      - name: Tools & Frameworks
+      - label: Tools & Frameworks
         details: "Git, LaTeX, Linux, PyTorch"
