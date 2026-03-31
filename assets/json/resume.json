@@ -1,0 +1,133 @@
+{
+  "basics": {
+    "name": "Suyang (Rico)",
+    "label": "Computer Science Master Student",
+    "image": "",
+    "email": "suyang@stu.zuel.edu.cn",
+    "phone": "",
+    "url": "",
+    "summary": "Master student in Computer Science at Central South University with research interests in Multimodal Language Models, Image Editing, and AI4Science.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Changsha",
+      "countryCode": "CN",
+      "region": "Hunan"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "SuyangLumiere",
+        "url": "https://github.com/SuyangLumiere"
+      },
+      {
+        "network": "X",
+        "username": "RICO_Lumiere",
+        "url": "https://twitter.com/RICO_Lumiere"
+      }
+    ]
+  },
+  "work": [],
+  "education": [
+    {
+      "institution": "Central South University",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Master Student",
+      "startDate": "2025-09",
+      "endDate": "2028-06 (exp.)",
+      "score": "",
+      "courses": [],
+      "highlights": [
+        "Advisor: Prof. Alex Jinpengwang"
+      ]
+    },
+    {
+      "institution": "ZhongNan University of Economics and Law",
+      "url": "",
+      "area": "Big Data Management and Application & Financial Engineering (Dual Degree)",
+      "studyType": "B.S.",
+      "startDate": "2021-09",
+      "endDate": "2025-06",
+      "score": "3.88/4.0",
+      "courses": [],
+      "highlights": [
+        "Outstanding Student Scholarship (2025)"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Domain adaptive and fine-grained anomaly detection for single-cell sequencing data and beyond",
+      "publisher": "IJCAI 2024",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": "Authors: Kaichen Xu, Yueyang Ding, Suyang Hou"
+    },
+    {
+      "name": "Glance: Accelerating Diffusion Models with 1 Sample",
+      "publisher": "arXiv preprint arXiv:2512.02899v2 (Under Peer Review ECCV 2026)",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "Authors: Suyang Hou et al."
+    },
+    {
+      "name": "Pixel-Level Instruction Alignment for All-in-Image Editing",
+      "publisher": "Under Peer Review ECCV 2026",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Internalize External Competence for Visual Instruction Editing",
+      "publisher": "Under Peer Review ECCV 2026",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Master",
+      "keywords": [
+        "Python", "R", "C++", "SQL", "Matlab"
+      ]
+    },
+    {
+      "name": "Tools & Frameworks",
+      "level": "Master",
+      "keywords": [
+        "Git", "LaTeX", "Linux", "PyTorch"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "CET6"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Multimodal Language Models",
+      "keywords": [
+        "Multilingual", "Mechanism", "Representation Learning"
+      ]
+    },
+    {
+      "name": "Image Editing",
+      "keywords": [
+        "FlowMatching", "MasaControl", "distillation", "DiT"
+      ]
+    },
+    {
+      "name": "AI4Science",
+      "keywords": [
+        "Bioinformatics"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

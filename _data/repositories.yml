@@ -1,0 +1,9 @@
+github_users:
+  - SuyangLumiere
+
+repo_description_lines_max: 2
+
+github_repos:
+  - SuyangLumiere/QwenImageEdit_MultiGPU
+  - SuyangLumiere/Edit_Discriminator
+
