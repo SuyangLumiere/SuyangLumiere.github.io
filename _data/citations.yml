@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-05-06'
 papers:
   oWQSyxYAAAAJ:9yKSN-GCB0IC:
     citations: 0
     title: 'CEMUSA: A Graph-based Integrative Metric for Evaluating Clusters in Spatial Transcriptomics'
     year: '2026'
   oWQSyxYAAAAJ:d1gkVwhDpl0C:
-    citations: 27
+    citations: 28
     title: Detecting anomalous anatomic regions in spatial transcriptomics with STANDS
     year: '2024'
   oWQSyxYAAAAJ:u-x6o8ySG0sC:
